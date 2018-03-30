@@ -1,4 +1,4 @@
-#CSAPP 深入理解计算机系统
+# CSAPP 深入理解计算机系统
 
 to be a really CS zjuer
 
@@ -11,8 +11,20 @@ printf("hello world\n");
 以下实验基于Carnegie Mellon 15-213/18-213/15-513: [Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/index.html)
 
 ***
+## LAB 完成进度
+- [x] Lab0 C Programming Lab
+- [ ] Lab1 Data Lab: Manipulating Bits 暂时略过
+- [ ] Lab2
+- [ ] Lab3
+- [ ] Lab4
+- [ ] Lab5
+- [ ] Lab6
+- [ ] Lab7
 
-###LAB0
+***
+
+
+### LAB0
 一些陷阱
 
 - 单向链表的头插法和尾插法（是否带头结点，写法会有不同）
@@ -28,5 +40,7 @@ if(q==NULL||q->head==NULL||vp==NULL) return 0;
 
 
 ***
+
+以后每个lab的总结写于相应文件夹中的readme中
 
 
