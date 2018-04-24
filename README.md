@@ -6,6 +6,9 @@ to be a really CS zjuer
 
 ```
 printf("hello world\n");
+gcc -c hello.c hello.s
+gdb 
+objdump -d hello.o > hello.d
 
 ```
 以下实验基于Carnegie Mellon 15-213/18-213/15-513: [Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/index.html)
@@ -14,8 +17,8 @@ printf("hello world\n");
 ## LAB 完成进度
 - [x] Lab0 C Programming Lab
 - [ ] Lab1 Data Lab: Manipulating Bits 暂时略过
-- [ ] Lab2
-- [ ] Lab3
+- [x] Lab2 Bomb Lab
+- [x] Lab3 Attack Lab
 - [ ] Lab4
 - [ ] Lab5
 - [ ] Lab6
