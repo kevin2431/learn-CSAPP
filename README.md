@@ -19,7 +19,7 @@ objdump -d hello.o > hello.d
 - [ ] Lab1 Data Lab: Manipulating Bits 暂时略过
 - [x] Lab2 Bomb Lab
 - [x] Lab3 Attack Lab
-- [ ] Lab4
+- [x] Lab4 Cache Lab 毕设前最后一个，part2 未实现最优 5.8
 - [ ] Lab5
 - [ ] Lab6
 - [ ] Lab7
